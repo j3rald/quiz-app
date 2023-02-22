@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "email": "jeraldtagadtad08@yahoo.com",
+      "password": "$2a$10$JakQApi.5RZ7sWV.UsmVP.yy3Zg5cu.4DcRgtylqvDc2F8bvlghWC",
+      "name": "jerald",
+      "id": 3
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$9pd35Sj.nmq4i7ijEM24i.u4un09Gkm8UKrtf3ZkjZp.pxt8tzwQ2",
+      "name": "test",
+      "id": 4
+    },
+    {
+      "email": "timmy@test.com",
+      "password": "$2a$10$FpEJhCAXfxjWnEs4VE8q3.Kge6kS9LJ6F8vgtCPvXapYthl.6i6gm",
+      "name": "timmy",
+      "id": 5
+    }
+  ],
+  "questions": [
+    {
+    "id": 1,
+    "question": "How many hearts does an octopus have?",
+    "options": [{"id": 1, "value": "3"},{"id": 2, "value": "5"},{"id": 3, "value": "8"}],
+    "correctAns": 1,
+    "type": "single",
+    "weight": 10
+  },
+  {
+    "id": 2,
+    "question": "What is the largest molecule that forms part of a human body?",
+    "options": [{"id": 1, "value": "Hemoglobin"},{"id": 2, "value": "Chromosome 1"},{"id": 3, "value": "Blood"}],
+    "correctAns": 2,
+    "type": "single",
+    "weight": 10
+  },
+  {
+    "id": 3,
+    "question": "In 1930 Albert Einstein and a colleague were issued US patent",
+    "options": [{"id": 1, "value": "Refrigerator"},{"id": 2, "value": "Television"},{"id": 3, "value": "Microwave"}],
+    "correctAns": 1,
+    "type": "single",
+    "weight": 10
+  },
+  {
+    "id": 4,
+    "question": "When was the first iPhone released?",
+    "options": [{"id": 1, "value": "2004"},{"id": 2, "value": "2000"},{"id": 3, "value": "2007"}],
+    "correctAns": 3,
+    "type": "single",
+    "weight": 10
+  }
+  ,
+  {
+    "id": 5,
+    "question": "How many teeth does the adult human have?",
+    "options": [{"id": 1, "value": "43"},{"id": 2, "value": "32"},{"id": 3, "value": "23"}],
+    "correctAns": 2,
+    "type": "single",
+    "weight": 10
+  }
+  ]
+}
+
